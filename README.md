@@ -2,7 +2,7 @@
 
 Description
 
-This application is a payment app that calculates the amount of change to be returned to a customer after a transaction, specifically for the private transport of patients at a local hospital that employs disabled people. The app is built using PyQt5, a set of Python bindings for the Qt libraries.
+This application is a payment app that calculates the amount of change to be returned to a customer after a transaction. It was used specifically for the private transport of patients at a local hospital that employs people with disabilities. The app is built using PyQt5, a set of Python bindings for the Qt libraries.
 Requirements
 
     PyQt5
